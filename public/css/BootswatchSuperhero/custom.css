@@ -1,0 +1,41 @@
+
+.custom-background1 {
+	background-color: #485563;
+}
+
+.custom-background2 {
+	background-color: #4d5e6c;
+}
+
+.custom-background3 {
+	background-color: #2b3e50;
+}
+
+.custom-userwelcomex {
+	font-weight: bold;
+	background-color: #c85e17;
+}
+
+.custom-row {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.rowx :nth-child(even) {
+	background-color: red;
+}
+
+.rowx :nth-child(odd) {
+	background-color: blue;
+}
+
+.custom-row:hover {
+	background-color: grey;
+	color: white;
+}
+
+.header-row {
+	background-color: #808080;
+	margin-left: 0;
+	margin-right: 0;
+}
